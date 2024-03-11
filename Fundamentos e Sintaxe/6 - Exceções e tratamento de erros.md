@@ -1,3 +1,5 @@
+# Exceções e Tratamento de Erros
+
 Quando falamos de exceções estamos nos referindo a erros ou falha no tratamento de dados que não são o que é esperado pelo trecho de código requerido.
 
 Suponhamos que estamos criando um método que solicita o saque de um determinado valor de uma determinada conta vigente. Esse método deve fazer diferentes verificações do valor de saque digitado para, por fim, informar se a ação pode ser executada ou não. 
