@@ -1,3 +1,5 @@
+# Coleções
+
 Em C#, uma coleção é uma estrutura de dados que permite armazenar e manipular grupos de elementos relacionados. 
 Existem vários tipos de coleções disponíveis em C#, cada uma com suas próprias características e finalidades. Neste artigo, iremos abordar cada uma delas e exemplos de seu uso.
 
