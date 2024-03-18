@@ -1,3 +1,4 @@
+# Strings e Manipulação de Texto
 
 Em C#, uma string é um objeto que representa texto imutável como uma sequência de caracteres Unicode (letras, dígitos, pontuação, etc.). As instâncias de uma String são definidas através de aspas duplas `""`, como abaixo:
 

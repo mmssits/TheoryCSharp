@@ -1,3 +1,5 @@
+# Tipos de Dados e Variáveis
+
 O C# é uma linguagem fortemente tipada. Isso significa que, como regra, devemos declarar o tipo de uma variável que indica o valor que ela armazenará.
 
 Além disso, uma das características entre tipos de dados e variáveis no C# é que, se uma variável nasce de um tipo, morre desse tipo. 

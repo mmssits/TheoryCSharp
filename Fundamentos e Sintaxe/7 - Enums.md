@@ -1,3 +1,4 @@
+# Enums
 
 Em C#, um enum (abreviação de enumeration) é um tipo de dados que permite que você defina um conjunto de valores nomeados que representam constantes nomeadas. Esses valores nomeados são chamados de membros do enum.
 
