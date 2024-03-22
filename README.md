@@ -1,4 +1,4 @@
-# Thery CSharp
+# Theory CSharp
 
 Esse projeto foi criado com o intuito de documentar meus estudos na tecnologia .Net.
 
